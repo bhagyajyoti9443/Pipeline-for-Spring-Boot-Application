@@ -50,7 +50,7 @@ This repository contains the following components:
      b. Run the pipeline
      c. Access the content from the browser using <Node_Server_Public_IP>:<NodePort_No>
 
-#### 7.  Automation
+#### 7.  Automation 
      a. Automate the CD pipeline after CI pipeline is built successfully
         (CD-pipeline --> Configure --> Build Triggers --> Projects to watch (CI-pipeline) --> 
         Trigger only if build is stable --> Save)
