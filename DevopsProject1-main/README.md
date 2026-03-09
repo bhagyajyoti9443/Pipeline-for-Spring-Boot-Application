@@ -17,7 +17,7 @@ This repository contains the following components:
     a. 'Master-Server' will have Java, Jenkins, Maven, Docker, Ansible, & Trivy packages
     b. 'Node-Server' will have Docker, Kubeadm & Kubernetes packages
 
-#### 2.  Establish passwordless connection between 'Master-Server' & 'Node-Server'
+#### 2.  Establish passwordless connection between 'Master-Server' & 'Node-Server'  
      <Commands to run in 'Node-Server'>
      sudo su -
      passwd ec2-user                         # (set password)
